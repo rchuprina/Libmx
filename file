@@ -1,1 +1,20 @@
-obj/mx_binary_search.o
+mx_memccpy.c    +
+mx_memmem.c     +
+mx_memset.c     +
+mx_memmove      +
+mx_del_extra_spaces ?
+mx_file_to_str  +
+mx_pop_back     ?
+mx_pop_front    ?
+mx_pow          +
+mx_push_back    +
+mx_push_front   +
+mx_quicksort    ?
+mx_read_line    ?
+mx_realloc
+mx_str_reverse  +
+mx_strcat       +
+mx_strncpy      +
+mx_strndup      +
+mx_strsplit     ?
+mx_strtrim      ?
