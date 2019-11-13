@@ -11,7 +11,7 @@ mx_push_back    +
 mx_push_front   +
 mx_quicksort    ?
 mx_read_line    ?
-mx_realloc
+mx_realloc      ?
 mx_str_reverse  +
 mx_strcat       +
 mx_strncpy      +

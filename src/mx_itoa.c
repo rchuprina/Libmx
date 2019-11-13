@@ -16,7 +16,6 @@ char *mx_itoa(int number)
         count *= 10;
     }
     itoa = mx_strnew(size);
-
     for (int i = 0; i < size; i++)
     {
         if (number < 0  && !i)
@@ -31,6 +30,5 @@ char *mx_itoa(int number)
             count /= 10;
         }
     }
-
     return itoa;
 }

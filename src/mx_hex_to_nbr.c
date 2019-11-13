@@ -1,6 +1,6 @@
 #include "libmx.h"
 
-unsigned long dec(char c)
+static unsigned long dec(char c)
 {
     if (c >= '0' && c <= '9')
         return c - 48;
@@ -9,15 +9,6 @@ unsigned long dec(char c)
     if (c >= 'A' && c <= 'F')
         return c - 55;
     return 16;
-}
-
-unsigned long mx_pow_16(int pow)
-{
-    if (pow < 0)
-        return 0;
-    if (!pow)
-        return 1;
-    return 16 * mx_pow_16(pow - 1);
 }
 
 unsigned long mx_hex_to_nbr(const char *hex)
@@ -35,7 +26,7 @@ unsigned long mx_hex_to_nbr(const char *hex)
         unsigned long g = dec(hex[j]);
         if (g == 16)
             return 0;
-        num += g * mx_pow_16(i);
+        num += g * (unsigned long)mx_pow(16, i);
     }
     return num;
 }

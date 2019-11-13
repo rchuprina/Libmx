@@ -1,6 +1,6 @@
 #include "libmx.h"
 
-int mx_len(const char *s)
+static int mx_len(const char *s)
 {
 	if (!s)
 		return 0;

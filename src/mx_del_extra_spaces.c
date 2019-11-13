@@ -1,6 +1,6 @@
 #include "libmx.h"
 
-int get_extra_len(const char *str)
+static int get_extra_len(const char *str)
 {
     int len = 0;
 

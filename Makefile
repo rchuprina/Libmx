@@ -45,7 +45,6 @@ SRCS = src/mx_binary_search.c \
 	src/mx_replace_substr.c \
 	src/mx_sort_list.c \
 	src/mx_sqrt.c \
-	src/mx_strarr_size.c \
 	src/mx_strcat.c \
 	src/mx_strcmp.c \
 	src/mx_strcpy.c \
@@ -101,7 +100,6 @@ SRC = mx_binary_search.c \
 	mx_replace_substr.c \
 	mx_sort_list.c \
 	mx_sqrt.c \
-	mx_strarr_size.c \
 	mx_strcat.c \
 	mx_strcmp.c \
 	mx_strcpy.c \
@@ -157,7 +155,6 @@ OUT = mx_binary_search.o \
 	mx_replace_substr.o \
 	mx_sort_list.o \
 	mx_sqrt.o \
-	mx_strarr_size.o \
 	mx_strcat.o \
 	mx_strcmp.o \
 	mx_strcpy.o \
@@ -213,7 +210,6 @@ OUT1 = obj/mx_binary_search.o \
 	obj/mx_replace_substr.o \
 	obj/mx_sort_list.o \
 	obj/mx_sqrt.o \
-	obj/mx_strarr_size.o \
 	obj/mx_strcat.o \
 	obj/mx_strcmp.o \
 	obj/mx_strcpy.o \
@@ -243,5 +239,5 @@ uninstall:
 	@rm -rf $(NAME)
 clean: 
 	@rm -rf $(SRC) $(HEADTMP) #$(OUT1)
-	#@rm -rf ./obj
+	@rm -rf ./obj
 reinstall: uninstall install

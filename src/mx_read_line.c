@@ -1,6 +1,6 @@
 #include "libmx.h"
 
-void reline(char **lineptr, char **buffer, int buf_size)
+static void reline(char **lineptr, char **buffer, int buf_size)
 {
     char *str = mx_strjoin(*lineptr, *buffer);
 
@@ -10,7 +10,7 @@ void reline(char **lineptr, char **buffer, int buf_size)
     *lineptr = str;
 }
 
-int mx_read_line(char **lineptr, int buf_size, int delim, const int fd)
+int mx_read_line(char **lineptr, int buf_size, char delim, const int fd)
 {
     char buf = '\0';
     int i = 0;

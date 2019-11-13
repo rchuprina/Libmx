@@ -28,10 +28,26 @@ int stararrlen(char **arr)
     return i;
 }
 
+void print_strarr(char **arr, const char *delim)
+{
+    if (!arr || !delim)
+        return;
+    int i = 0;
+	for (; arr[i]; i++)
+    {
+        mx_printstr(arr[i]);
+        mx_printstr(delim);
+    }
+    if (!arr[i])
+        mx_printstr("NULL");
+    mx_printchar('\n');
+}
+
 #define N 10
 int main()
 {
-    char *str = mx_strdup("7YdxCtmSpJ2hSKceNOxqFBREkY4P");
-    printnull(mx_memmove(&str[1], str, 9));
-   // mx_printstr("\n");
+  char *s1 = mx_strdup("qweasd");
+  char *s3 = mx_realloc(s1, 2);
+  mx_printstr(s1);
+  mx_printstr(s3);
 }
