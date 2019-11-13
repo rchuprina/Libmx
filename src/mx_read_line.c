@@ -18,7 +18,7 @@ int mx_read_line(char **lineptr, int buf_size, char delim, const int fd)
     mx_strdel(lineptr);
     
     if (fd == -1)
-        return -1;
+        return -2;
     while (read(fd, &buf, 1))
     {
         if (!(i % buf_size) || buf == delim)
@@ -30,6 +30,6 @@ int mx_read_line(char **lineptr, int buf_size, char delim, const int fd)
         buffer[i % buf_size] = buf;
         i++;
     }
-    return 0;
+    return -1;
 }
 
