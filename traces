@@ -1,0 +1,2030 @@
+Running tests for mx_binary_search for User
+Running tests for mx_binary_search for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 34 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 33 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 33 points
+----------------------------------------
+Total 100 points for mx_binary_search [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_bubble_sort for User
+Running tests for mx_bubble_sort for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 50 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 50 points
+----------------------------------------
+Total 100 points for mx_bubble_sort [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_count_substr for User
+Running tests for mx_count_substr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_count_substr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_count_words for User
+Running tests for mx_count_words for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 40 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 15 points
+----------------------------------------
+Total 100 points for mx_count_words [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_create_node for User
+Running tests for mx_create_node for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 100 points
+----------------------------------------
+Total 100 points for mx_create_node [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_del_extra_spaces for User
+Running tests for mx_del_extra_spaces for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 12 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_del_extra_spaces [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_del_strarr for User
+Running tests for mx_del_strarr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 100 points
+----------------------------------------
+Total 100 points for mx_del_strarr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_file_to_str for User
+Running tests for mx_file_to_str for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_file_to_str [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_foreach for User
+Running tests for mx_foreach for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 15 points
+----------------------------------------
+Total 100 points for mx_foreach [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_get_char_index for User
+Running tests for mx_get_char_index for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_get_char_index [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_get_substr_index for User
+Running tests for mx_get_substr_index for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_get_substr_index [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_hex_to_nbr for User
+Running tests for mx_hex_to_nbr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_hex_to_nbr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_itoa for User
+Running tests for mx_itoa for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_itoa [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_list_size for User
+Running tests for mx_list_size for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 25 points
+----------------------------------------
+Total 100 points for mx_list_size [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memccpy for User
+Running tests for mx_memccpy for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+1,2c1
+< return value = IHQDk
+< C     XKGpOWv
+---
+> return value = (null)
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+1,2c1,7
+< return value = (null)
+< dst = ry3P34N
+---
+> return value = y3P34N
+> UjOU6pdQ70IdDbu 0iWhgewh2vcJKu7SIR7BmSoqJYvPdWxjs1F   AZbPE6xTMRbl92vazsa9LRRUsgoMC1A
+> LMkMgfnzd     zAu5b0zbMDUcH4V88twCjs19Z
+> HYHjO
+> jSNpVS
+> Ra4xYVYttS9Tsfm9C
+> dst = Jy3P34N
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Failed
+
+user output vs test output
+1,2c1,3
+< return value = (null)
+< dst = dHMZABAJBF5oHfv2RAaIGtvZ6SS17ha9FxdG34qMiXcd05GY3DOCFgLxaAt1oZPJqqeCE03dmSW5OxwS        HwDD92VmjuCpwfiRggW1    RyRdor8gIJzL8rsUjdVfK yeYGUkq
+---
+> return value = xdG34qMiXcd05GY3DOCFgLxaAt1oZPJqqeCE03dmSW5OxwS        HwDD92VmjuCpwfiRggW1    RyRdor8gIJzL8rsUjdVfK yeYGUkq
+> 5j1ssLr49aZO0s
+> dst = dHMZABAJBF5oHfv2RAaIGtvZ6SS17ha9mxdG34qMiXcd05GY3DOCFgLxaAt1oZPJqqeCE03dmSW5OxwS        HwDD92VmjuCpwfiRggW1    RyRdor8gIJzL8rsUjdVfK yeYGUkq
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Failed
+
+user output vs test output
+1,2c1,6
+< return value = (null)
+< dst = rxIwoWQLxjGVQMJpfaJezb2tthdTL   hF 3SPWG0mp7uzhjyp0b9EZjXT      t8XcE6ZQQ g     QsYSbmoyA8jg8AvR9zBtVcdhuLHF8
+---
+> return value = xIwoWQLxjGVQMJpfaJezb2tthdTL   hF 3SPWG0mp7uzhjyp0b9EZjXT      t8XcE6ZQQ g     QsYSbmoyA8jg8AvR9zBtVcdhuLHF8
+> I2U5isndMxTcWD5Zk
+> 9qltjCyx
+> 3Wps
+> Zj2MK0DxmkpXcdOwx0KA9 fj
+> dst = JxIwoWQLxjGVQMJpfaJezb2tthdTL   hF 3SPWG0mp7uzhjyp0b9EZjXT      t8XcE6ZQQ g     QsYSbmoyA8jg8AvR9zBtVcdhuLHF8
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Failed
+
+user output vs test output
+1,3c1,3
+< return value = (null)
+< dst = 08HTLeTMj jbtikKjs
+< NsXqvV1liyh0VUQd9BNatVRMa9zr N        u5qa30a4IrLAbOvtspoJ3IeVkqKxA6r51uV     EZxrnhXMtx0iDW3bhuyfsnxWwBElq22QB89A2L7atRTFYLl8hgO22BB5ZDGZBnG
+---
+> return value = NsXqvV1liyh0VUQd9BNatVRMa9zr N u5qa30a4IrLAbOvtspoJ3IeVkqKxA6r51uV     EZxrnhXMtx0iDW3bhuyfsnxWwBElq22QB89A2L7atRTFYLl8hgO22BB5ZDGZBnG
+> y9IvaUJk
+> dst = 08HTLeTMj jbtikKjsUNsXqvV1liyh0VUQd9BNatVRMa9zr N       u5qa30a4IrLAbOvtspoJ3IeVkqKxA6r51uV     EZxrnhXMtx0iDW3bhuyfsnxWwBElq22QB89A2L7atRTFYLl8hgO22BB5ZDGZBnG
+
+You lost 20 points
+----------------------------------------
+Total 20 points for mx_memccpy [ FAIL ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memchr for User
+Running tests for mx_memchr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 30 points
+----------------------------------------
+Total 100 points for mx_memchr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memcmp for User
+Running tests for mx_memcmp for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 24 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 23 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 23 points
+----------------------------------------
+Total 100 points for mx_memcmp [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memcpy for User
+Running tests for mx_memcpy for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 35 points
+----------------------------------------
+Total 100 points for mx_memcpy [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memmem for User
+Running tests for mx_memmem for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+1c1
+< IHR6nzQOhOCoK9kaN5yUc hYxkVdX7BeF     lMPJs
+\ No newline at end of file
+---
+> (null)
+\ No newline at end of file
+
+You lost 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 8 Ok
+You get 25 points
+----------------------------------------
+Total 95 points for mx_memmem [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memmove for User
+Running tests for mx_memmove for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 35 points
+----------------------------------------
+Total 100 points for mx_memmove [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memrchr for User
+Running tests for mx_memrchr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 30 points
+----------------------------------------
+Total 100 points for mx_memrchr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_memset for User
+Running tests for mx_memset for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 40 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 40 points
+----------------------------------------
+Total 100 points for mx_memset [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_nbr_to_hex for User
+Running tests for mx_nbr_to_hex for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 8 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 9 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 10 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_nbr_to_hex [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_pop_back for User
+Running tests for mx_pop_back for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Failed
+
+user output vs test output
+0a1,2
+> Empty list!
+> 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Failed
+
+user output vs test output
+0a1,2
+> Empty list!
+> 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 20 points
+----------------------------------------
+Total 60 points for mx_pop_back [ FAIL ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_pop_front for User
+Running tests for mx_pop_front for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Failed
+
+user output vs test output
+0a1,2
+> Empty list!
+> 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Failed
+
+user output vs test output
+0a1,2
+> Empty list!
+> 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 20 points
+----------------------------------------
+Total 60 points for mx_pop_front [ FAIL ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_pow for User
+Running tests for mx_pow for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 12 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Failed
+
+user output vs test output
+0a1
+> inf
+\ No newline at end of file
+
+You lost 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 12 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+0a1
+> inf
+\ No newline at end of file
+
+You lost 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 12 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 12 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 13 points
+----------------------------------------
+Total 74 points for mx_pow [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_print_strarr for User
+Running tests for mx_print_strarr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 8 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 8 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 28 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 28 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 28 points
+----------------------------------------
+Total 100 points for mx_print_strarr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_print_unicode for User
+Running tests for mx_print_unicode for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+0a1
+> b'\xf7\x93\xb2\xb1'
+\ No newline at end of file
+
+You lost 30 points
+----------------------------------------
+Total 70 points for mx_print_unicode [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_printchar for User
+Running tests for mx_printchar for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_printchar [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_printint for User
+Running tests for mx_printint for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_printint [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_printstr for User
+Running tests for mx_printstr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 25 points
+----------------------------------------
+Total 100 points for mx_printstr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_push_back for User
+Running tests for mx_push_back for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 100 points
+----------------------------------------
+Total 100 points for mx_push_back [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_push_front for User
+Running tests for mx_push_front for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 100 points
+----------------------------------------
+Total 100 points for mx_push_front [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_quicksort for User
+Running tests for mx_quicksort for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Failed
+
+user output vs test output
+1c1
+< shuffles = 3
+---
+> shuffles = 2
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+1c1
+< shuffles = 14
+---
+> shuffles = 5
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+1c1
+< shuffles = 0
+---
+> shuffles = 1
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Failed
+
+user output vs test output
+1c1
+< shuffles = 35
+---
+> shuffles = 9
+
+You lost 20 points
+----------------------------------------
+Total 20 points for mx_quicksort [ FAIL ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_read_line for User
+Running tests for mx_read_line for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Failed
+
+user output vs test output
+1c1
+< 1 leak for 32 total leaked bytes
+---
+> 0 leaks for 0 total leaked bytes
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Failed
+
+user output vs test output
+1c1
+< Timeout
+---
+> 0 leaks for 0 total leaked bytes
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+1c1,21
+< QIQsHViE2s86Vv
+\ No newline at end of file
+---
+> QIQsHViE2s86VvXVs9fYZ1VRQ8bEhptGxa5SEUoz4BETjZQIxIwNImPxAf4zPtBgaMW   hev6c77rm
+> jVDHWBp  sKvG8 tUu
+> coMY8gIGJW3qFQe
+> u     a0mznTpSliycYJDy        3CN0pP
+> guoPqAIu
+> FNoOJ6ezOlPuUKd6eAhDgzwOH     7NPCIN54JjfHrLMJ8ifVxmlqtLFMwmfeI0Fu7vbVxL0OfdzT9eBqG3RAtnWS8Zz yk5Aeggm1qCjdtUdAy9gBhtQYN6ufVSre0WQQDfOTeT3KJhG4lmnN nf9mXxGDNVTSuSjX70        ZGXiVQQS1plAvm4iPmzKxrddnKneGjt4Emme7lpgo9HvNGUNsLUgi   Iv6K    xJu53gYGk7aLcJ2l50URTxctWohJNzlJrM9BsJsBJ53moDELAmjAfXsiS1vImtER2YCC0IXoNSCQ2
+> DsBzCd9AtJ7xMOsx4Lt28W0g6H2x7TTss     BuAKf
+> j5OY
+> FapT2AK       8p4k0YzwWwY72azRX131G
+> WWf1pZt1HEqyzq8ltSDrSprdwg nP0        d7 qa8rQjvcfJ8 sBoz1bIdI9Nxvp88bVP3G4W8 L49LYY
+> htHMi3USOPGk9ZRddomP7hxLcRnQv
+> u hBKB5W1j3ZuHofnZnokwAD0OG3M3        Q5sOd9XArl8WSL4WuSzdmDViTkoJ26POd2V3KWE3kVJmd0OlOOfiJHuhxCtjLHkt8XI ruKoCxwqVq  78p11ZHJ
+> Kpwy4fEeKZgUD7xW2osaMeYvA69oYv Nje2XzcvF eP9UyDeQo882Nmy1wQB  j3FWqX1FkrYTMU0maM24cd2InGHfuQSn1sIGoBcabkusvXmTBvUx9l5CkX4eLQ2AGOPGQ
+> I0jSM
+> LNRca6svvXD3h5uYvY8DKnxVY4
+> B8iU  wTM3ew4DZFSV QzIQllDKAwNZILqTd9fMa      zNhnB7oNApVR0Oe2mIWRi   r ZYm6rq9M      Q
+> LrUo4Gx4vjVrxqQZG1CzdRCdsld2jLEJ9EC99tXsL6yqtF2SJHOm1jQ4aLnYwC7H1RjeCtsgjeDCWG6SFhIsubYCN8eT8 Z4NewicLbG      Jp32g
+> BJ2lnGz3jJwdY 3kMHp3efoTPqNlLrrj8WOoHhzWmPyGd3iZkog   RmWHMNrIG
+> MFG   vsUNw
+> i3FIKGQf0B940cUlqA    hJbaSkPwxPfIApEKENGD7W  FmCfovFq1AF4mVk8blLRemz2Lbom3x2lcVCWpPqqeB0e3r1         Lwu5Wkpr
+> iUU8qsP3UxOgb mRJ3H356tlYMhZRKYXoCbBQH I1stCbq6Gc7wU6KDIioNRCvTFNzOTKlyasxKiwIv0 leaks for 0 total leaked bytes
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+1c1,147
+< es9 RHk4YgTagtuIL2Po5ahNgPJVKd7gPikPJiCF3
+\ No newline at end of file
+---
+> es9 RHk4YgTagtuIL2Po5ahNgPJVKd7gPikPJiCF3xtZ9ypL      zZFIaTHcLOBw2MtrirQrsCqmyb4XOpCOUuoPC2gm
+> zm2Bj0jagP
+> XEeEbHYbqM 7 b SHbnDegGjEp91jBR5AHCas7d6Su    ZASq4KaVqsJ4vw7wcpnGZ6CFEC0
+> UuDC0ToYK4CNL99UV3bSO2l2LBj7MRrsgxCFhyQNopfev3v4hR 0NZN0VmUZp0OlJfsmDeRaOO7Ig
+> tUXZnRLE
+> mwk   oKSy3K7975kEF8y WPunJ20LQJjOcYQT5k5MQvWaAMFIINNsRdZQznaolJwjOrU4uDWgZ2Yb
+> ct1oJThKiVQjxrZ7z4T52XcvMnkNSxaEKucZi2sjMnN99jkzLhP
+> hbt7DXB       QEidn5cl38WIU5KjBW7te3I4iX4dvRke4EQQd   rWx f0JeUatlmNHtOvff2 FBgbk5c607cFMK QP2x6ofV7bSePnZUjAHsW20LtXp1fTc 2UuffGXDIx2eVHz8YevJ2gqhcX8if2Xa
+> zO7a4f2QQnRHK7oIIaIJ  JL1ib
+> v     ymERvHBBIPaRhEA2tEsoGE0uOOMOSrJzL
+> 3CGiOr36hWN7HQ3C35uk8gsuqOFq  wOapgz9qq       uxjxNJVFAZAxQhcj1rK425B1yqr0Cca mDCv    S7MBmdSHCztHoBI5Am1rzBe 2YJoq9yP SHlQTtQXvOQNvlVQQ
+> VP0   uZ60JxhHndgBDgBEoZNS6Nj7mlUE3jl lgVcpKn
+> vO0W4eMUhVP 37
+> 2nzYFzQ6tx ZOB2gus6StAwIcn1XysdN5F2pJeDq      TJ
+> D9RQdWocg3xPwwq9FOJ
+> sxf6G0e20tKNujMv      VpMNWwawawckW3U9XJI4GmqR y      RtQ7kP8aBa ilr kWzyv7O
+> uYuJiYS1tApjaIKG45SNqSW7zEUs3D WYh
+> b0iK8QznKQcpKGDwiHmcGok
+> dWpLcouXNWIgE aYYp16xdCtLbpijddFAUe4uX12IhxF
+> VuPGoSZS9W6ggdWic6U4s07F1ROrKdFG3bdUvXCPz0VhaiAV      7WHts3k5Yc4mZn8awK2Z1k iyn6iOC5Dthx7uGuJ2Z6Oq1bfRvrbZ1CYCx4ar14YbbbsGv6Wc4OhExkiglxXY1
+> L8aS0xUVadMORaMDunODrq8R      O1NkLEIASH4hEp63d3Ez
+> 31IM6LRIT7B7f57i0RBHTDgejUXLC v8tfBofhvLQqetjG81OisQ2 xtmOf   Cb0XaXIt9SpppNMJvzurvlJbs5ezw l8XrmwHexne3PaZj0
+> NRqR9FYxPwUdCqX1pPrigh        VOt1yLClbGiiVkdAIHYGa2E15JncDT9rSk4otG4sLXFA588OQoyEHZZSTvZTtrMg2LvYCKTdggLv02mMHuFtUKFD
+> G     aj6aM hb21
+> 654NH3L PlPyWJZlVxAB2g
+> CsI3CE7HvWw5pVTbudUi
+> NIntJImhA27qSosIN1 Pq90K3VSznloZ2VPaBIaPvKZMt6E9 zC RWi5lBGEujcyH5ZLZXTCEIpyyRCbOTpy8 P8ricbClb4X4NrkHtODk0Cwpt2W6pIzsJ0vnNzCJNepjJLtoMhWMfhNx1MMmN vTa
+> 4M2r3jTT2gCUVuBkqVLAtLNPpzhlEg8Zw5IOWSlhE4YGPf        bxaLzSAokMbskPG5AR6ulrrhFVPczpYOqeblBX
+> xtv1uS8CPCC57YivDPYxgFBxRvce5B7TZkoFNEdXKwGde1qNC1HHOv0pG4lQXNPRaadzkRGLsY
+> a5bbrEiViWIr6 Gb
+> GRjK54nJCJj7gpl1DgEW0I8wds9fIIz1bvi1c9qO3p0vZ
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Failed
+
+user output vs test output
+1c1,372
+< 3TgJrAK51bUiRDziN17j2w0wm     QWwalbiZsH
+\ No newline at end of file
+---
+> 3TgJrAK51bUiRDziN17j2w0wm     QWwalbiZsHAdkd9
+>       ocWPO37i75
+> veuvf8ji1nk2qcrgqWwlL6Qy0vNxIVD6PCVo2547dqn1  Jc2bH
+> wgimo7uaeTKQkxQV0     RodNqvSdDD VnBT7hrBKJ
+> dJeAbsUPnj7lH5WTXq2YA KnC5BbNSfU1
+> OpfNSArVcZdiqNV2r msvBFZh9XnqLV6BWJ47L7q 1X20QTvX44eJhCnh6bd5 O7YV8xTru4iEK5YgvBPsUi0OeckYd0uAjpmQF3JzwfpvwUIKiK7YR
+> qImsXnl2 mh8kyPPruxnWbfBw4DDPVlR58thFQ03 z7tUZPjLCy35AnMkNcoJKsCNVia
+>       I1      YUI8NWzvQAnrntS9UdHEzssnZ4PObBU7wlP7ZIQySRyTC 9irrZvs   7NvBhM18 ukCHKVegB5v5pTF
+> yqLLuRD4RcG5WMoGGUP0KR
+> yRriAbSpCkRx  ICO2V
+> N4J1oUkFVwqPdACq4Xevob
+> Opn2NS3T
+> dFCXHTm4TG614FJDeG6Nclyjm5q7sHLd5wioWKBuOw    4s4JQhDtuDvc4xcapyo50cMtxlmY6q0KPAOsEVaRM83JGAclJ6D1DFKZrddOOXUiuHOL    QpNhTP8KOCculPzY YTdIPEy        TvzRAvTX3jtZCcDCxhcIAIodBagjpoyseydOcplui5LpNK2ncvcAV0OQ9eXQb6LY9inkpdXMNQOf
+> ESI5K1vix0YF TyhAvHAi6LQ1o6   u       u1pQgByoDA5IyyIn97alKW2u1b4eGRMEL5mMoa30qa1WIQXwBU7eeVNvbySZE   eM      qAO5RCahXPcSOsKG6GzVpNhr
+> ll0D6HuEXYJEqdMJ4ncujaWXUnBK7H5LEVYHk4SYolI8jSwYrR7IlH3LqRHRyYMvCzjjOee1cS
+> Ms6w4kGi2     nx8T6HAmc1wqUNFF5YjSyKZAaGzgrZwM1SEWr4sV1Bvk35ADVrbWyT4cWZzc6H5Jvb T3M6SGLy     FTZN69NKAkBiEl wz7YsOUrccWBd6rG2Pw8w16DtQW7VD LppAw9Db2DkqudPp5nkkapE00cf1uooaIyDr1xO4zb mKVRcUCLXFwFi1uNLEdxuk101vd9EInDXcgUk2udw10tsBn        pZyZf   iRztwpUfeUZXNf4RE4L15XdANDLG3y HcaZ79JoH
+> IzFn
+> 3Ikb4fI5qrFGNRTZLxcAfqV51GnfQ9VtjVs9 pG4B5wUvKeeFX 9 2nlgefbCwmK0
+> czhM29Pqs     ysnLwPjor8jDLrqdR
+> 8IifM3uZkRZvhaxULVD9cMBCnREqBR3cqv448DKkZI8Y0cH rFaJTy2PeNNt Cdx2DviP7lkB6gez6iPU6EFRq1qBl
+> Gf
+> Xd2UQgmQS7KvssQfOW rfN        SBqWmpiZHAkdEeMYh89LPv65k6jEFpC6FlIypNkbQQITqj1We
+> rbsYVlKxYqeGzgdooK0Xn9T0XVHKeGwxq     IuBcVOeJXad9c902WsmoG3caum22SINeaUvesde
+> QPHcXw
+> wAn023VxzeUm4Cz5qUyjihaP j6skseboCjhRgMyD
+> QJgimk LDkT9tnAnxf3p7xZqTVWeh 3ux9o4DBQoOcr5F249v87o6iUzwefIlYMC4rQcnif4haZgmAuu38    0gmwyfmDXW1zynjJJAdFt7Ko4rLqt50YMv4 4zZBRxvmE670XUmqKPqbC Y9pPXxEiKRKs  T74sZBZJA       PWHCgI
+> 4DEI7Q08QwHy  hb8EMnM0ULssf
+> zto5F
+> Ku4zSGCyQ3AOzfUpcu6m3Vv0TMmkoU        u75 wXvJ6yutBMvxLwxvzLBtK04vxu  M7s3dwMh
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Failed
+
+user output vs test output
+32c32,6870
+<                              by
+\ No newline at end of file
+---
+>                              by
+>
+>                   Larry and Andy Wachowski
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>                         June 3, 1997
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> FADE IN:
+>
+> ON COMPUTER SCREEN
+>
+> so close it has no boundaries.
+>
+> A blinking cursor pulses in the electronic darkness like a
+> heart coursing with phosphorous light, burning beneath the
+> derma of black-neon glass.
+>
+> A PHONE begins to RING, we hear it as though we were
+> making the call.  The cursor continues to throb,
+> relentlessly patient, until --
+>
+>                          MAN (V.O.)
+>           Yeah?
+>
+> Data now slashes across the screen, information flashing
+> faster than we can read:  "Call trans opt:  received.
+> 2-19-96 13:24:18  REC:Log>."
+>
+>                          WOMAN (V.O.)
+>           Is everything in place?
+>
+> The man is silent.  On screen:  "Trace program:  running."
+>
+> We listen to the phone conversation as though we were on a
+> third line.  The man's name is Cypher.  The woman,
+> Trinity.
+>
+>                          TRINITY (WOMAN) (V.O.)
+>           I said, is everything in place?
+>
+> The entire screen fills with racing columns of numbers.
+> Shimmering like green-electric rivers, they rush at a 10-
+> digit phone number in the top corner.
+>
+>                          CYPHER (MAN) (V.O.)
+>           You weren't supposed to relieve me.
+>
+>                          TRINITY (V.O.)
+>           I know but I felt like taking a
+>           shift.
+>
+> The area code is identified.  The first three numbers
+> suddenly fixed, leaving only seven flowing columns.
+>
+>                          CYPHER (V.O.)
+>           You like him, don't you?  You like
+>           watching him?
+>
+> We begin MOVING TOWARD the screen, CLOSING IN as each
+> digit is matched, one by one, snapping into place like the
+> wheels of a slot machine.
+>
+>                          TRINIT
+You lost 30 points
+----------------------------------------
+Total 0 points for mx_read_line [ FAIL ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_realloc for User
+Running tests for mx_realloc for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+2c2
+< newptr size = 32
+---
+> newptr size = 64
+
+You lost 30 points
+----------------------------------------
+Total 70 points for mx_realloc [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_replace_substr for User
+Running tests for mx_replace_substr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 8 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Failed
+
+user output vs test output
+1,2c1,2
+< edPfCuPFPFPraDaD25RoG9BIoieUgtBb2KQmZbojvMf1eWRxYeO5fVlBov5skAas
+< edPfCAwpKGAiwh3PEMPKVAc2ylhqhl3SpN    7EIFPFPraDaDmSa5LviDHTiWWWv
+\ No newline at end of file
+---
+> edPfCuPFPedPfCaD25RoG9BIoieUgtBb2KQmZbojvMf1eWRxYeO5fVlBov5skAas
+> edPfCAwpKGAiwh3PEMPKVAc2ylhqhl3SpN    7EIFPedPfCaDmSa5LviDHTiWWWv
+\ No newline at end of file
+
+You lost 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Failed
+
+user output vs test output
+2,4c2,4
+< 0W    UhMdAOLlqiWM75UOcZx4Zx4rBsGT3Pn Zh
+< gkJGCHDsDZx4Zx4regk   Dzsf2eLjWKfwtXAOLlqiW7itYiiV1M ViAOLlqiWDLZVL3giSva6fNXK04UWcfL6Zx4Zx4rVyQqWCLHg9QD8k85Pf       5Ke5v71DikA1iOgknj      5s5h75AOLlqiWM2xHlj
+< CsQeDZx4Zx4rcc7M92ncVxallxoaQHKvd6JjAOLlqiW GopPPUxp2GA       fbilDoXoTX7
+---
+> 0W    UhMdAOLlqiWM75UOcZx4AOLlqiWBsGT3Pn      Zh
+> gkJGCHDsDZx4AOLlqiWegk        Dzsf2eLjWKfwtXAOLlqiW7itYiiV1M ViAOLlqiWDLZVL3giSva6fNXK04UWcfL6Zx4AOLlqiWVyQqWCLHg9QD8k85Pf    5Ke5v71DikA1iOgknj      5s5h75AOLlqiWM2xHlj
+> CsQeDZx4AOLlqiWcc7M92ncVxallxoaQHKvd6JjAOLlqiW GopPPUxp2GA    fbilDoXoTX7
+
+You lost 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 14 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 16 points
+----------------------------------------
+Total 72 points for mx_replace_substr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_sort_list for User
+Running tests for mx_sort_list for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 100 points
+----------------------------------------
+Total 100 points for mx_sort_list [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_sqrt for User
+Running tests for mx_sqrt for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 5 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 7 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 8 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 9 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 10 Ok
+You get 15 points
+----------------------------------------
+Total 100 points for mx_sqrt [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_str_reverse for User
+Running tests for mx_str_reverse for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_str_reverse [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strcat for User
+Running tests for mx_strcat for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 5 points
+----------------------------------------
+Total 100 points for mx_strcat [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strcmp for User
+Running tests for mx_strcmp for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 30 points
+----------------------------------------
+Total 100 points for mx_strcmp [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strcpy for User
+Running tests for mx_strcpy for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 30 points
+----------------------------------------
+Total 100 points for mx_strcpy [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strdel for User
+Running tests for mx_strdel for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 50 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 50 points
+----------------------------------------
+Total 100 points for mx_strdel [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strdup for User
+Running tests for mx_strdup for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_strdup [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strjoin for User
+Running tests for mx_strjoin for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 25 points
+----------------------------------------
+Total 100 points for mx_strjoin [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strlen for User
+Running tests for mx_strlen for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 20 points
+----------------------------------------
+Total 100 points for mx_strlen [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strncpy for User
+Running tests for mx_strncpy for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 5 points
+----------------------------------------
+Total 100 points for mx_strncpy [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strndup for User
+Running tests for mx_strndup for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Failed
+
+user output vs test output
+1,3d0
+< (null)
+< size of pointer: 0
+< 0 leaks for 0 total leaked bytes
+\ No newline at end of file
+
+You lost 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 19 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 13 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 19 points
+----------------------------------------
+Total 90 points for mx_strndup [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strnew for User
+Running tests for mx_strnew for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 35 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 30 points
+----------------------------------------
+Total 100 points for mx_strnew [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strsplit for User
+Running tests for mx_strsplit for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 25 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 25 points
+----------------------------------------
+Total 100 points for mx_strsplit [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strstr for User
+Running tests for mx_strstr for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 30 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Failed
+
+user output vs test output
+1c1
+< (null)
+\ No newline at end of file
+---
+> uAJCK1r9Xw
+\ No newline at end of file
+
+You lost 20 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 10 points
+----------------------------------------
+Total 80 points for mx_strstr [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_strtrim for User
+Running tests for mx_strtrim for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 15 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_strtrim [ SUCCESS ]
+----------------------------------------
+----------------------------------------
+Running tests for mx_swap_char for User
+Running tests for mx_swap_char for Test
+----------------------------------------
+Comparing outputs
+Test case 0 Ok
+You get 16 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 1 Ok
+You get 16 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 2 Ok
+You get 16 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 3 Ok
+You get 16 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 4 Ok
+You get 16 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 5 Ok
+You get 10 points
+----------------------------------------
+----------------------------------------
+Comparing outputs
+Test case 6 Ok
+You get 10 points
+----------------------------------------
+Total 100 points for mx_swap_char [ SUCCESS ]
+----------------------------------------
