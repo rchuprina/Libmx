@@ -12,6 +12,7 @@ static void reline(char **lineptr, char **buffer, int buf_size)
 
 int mx_read_line(char **lineptr, int buf_size, char delim, const int fd)
 {
+
     char buf = '\0';
     int i = 0;
     char *buffer = mx_strnew(buf_size);
@@ -25,12 +26,16 @@ int mx_read_line(char **lineptr, int buf_size, char delim, const int fd)
         {
             reline(lineptr, &buffer, buf_size);
             if (buf == delim)
+            {
+                mx_strdel(&buffer);
                 return i;
+            }
         }
         buffer[i % buf_size] = buf;
         i++;
     }
     reline(lineptr, &buffer, buf_size);
+    mx_strdel(&buffer);
     return -1;
 }
 
