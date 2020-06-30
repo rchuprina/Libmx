@@ -11,8 +11,6 @@ char **mx_strarrnew(int size)
 
 char **mx_strsplit(const char *s, char c)
 {
-    if (!s)
-        return NULL;
     int size = mx_count_words(s, c);
     char **arr = mx_strarrnew(size);
     int len = 0;
