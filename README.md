@@ -1,2 +1,2 @@
 # Libmx
-string.h duplicate
+Implementing string.h functions.
